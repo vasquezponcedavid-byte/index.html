@@ -1,3 +1,3 @@
 # Resbaladera La Tradicional Aplicación Móvil
 Este proyecto se enfoca en la creación de un sistema de fidelización digital para el negocio "Resbaladera La Tradicional". A través de la implementación de un modelo de base de datos relacional, se busca tener un control completo sobre los aspectos clave de la aplicación, como la gestión de usuarios, el registro de compras y el programa de recompensas. La estructura de la base de datos permite rastrear información vital de los clientes, como sus puntos acumulados y su historial de transacciones. Además, se incluyen detalles sobre las promociones y las recompensas disponibles, así como un registro de los canjes que realiza cada usuario. El proyecto incluye scripts SQL autónomos para crear la estructura de datos que soporta esta lógica de negocio.
-![Diagrama ER](modeloe-r.jpg)
+![Diagrama ER](modelo_e_r.jpg)
